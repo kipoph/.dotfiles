@@ -1,0 +1,30 @@
+2020/10/09-07:28:26.558 f61 Reusing MANIFEST /home/kipo/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/10/09-07:28:26.559 f61 Recovering log #3
+2020/10/09-07:28:26.597 f61 Reusing old log /home/kipo/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2020/10/09-08:54:29.406 f77 Level-0 table #5: started
+2020/10/09-08:54:29.572 f77 Level-0 table #5: 96390 bytes OK
+2020/10/09-08:54:29.605 f77 Delete type=0 #3
+2020/10/09-09:52:46.192 184d Level-0 table #7: started
+2020/10/09-09:52:46.261 184d Level-0 table #7: 80298 bytes OK
+2020/10/09-09:52:46.297 184d Delete type=0 #4
+2020/10/09-10:42:01.473 1dce Level-0 table #9: started
+2020/10/09-10:42:01.533 1dce Level-0 table #9: 18338 bytes OK
+2020/10/09-10:42:01.568 1dce Delete type=0 #6
+2020/10/09-12:10:55.948 21bf Level-0 table #11: started
+2020/10/09-12:10:56.018 21bf Level-0 table #11: 20949 bytes OK
+2020/10/09-12:10:56.050 21bf Delete type=0 #8
+2020/10/09-12:11:38.010 20bf Level-0 table #13: started
+2020/10/09-12:11:38.095 20bf Level-0 table #13: 19802 bytes OK
+2020/10/09-12:11:38.133 20bf Delete type=0 #10
+2020/10/09-12:19:18.947 2223 Level-0 table #15: started
+2020/10/09-12:19:19.013 2223 Level-0 table #15: 23746 bytes OK
+2020/10/09-12:19:19.045 2223 Delete type=0 #12
+2020/10/09-12:19:19.045 2238 Compacting 4@0 + 1@1 files
+2020/10/09-12:19:19.103 2238 Generated table #16@0: 90 keys, 78208 bytes
+2020/10/09-12:19:19.103 2238 Compacted 4@0 + 1@1 files => 78208 bytes
+2020/10/09-12:19:19.145 2238 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/09-12:19:19.145 2238 Delete type=2 #13
+2020/10/09-12:19:19.145 2238 Delete type=2 #9
+2020/10/09-12:19:19.145 2238 Delete type=2 #7
+2020/10/09-12:19:19.145 2238 Delete type=2 #11
+2020/10/09-12:19:19.145 2238 Delete type=2 #15

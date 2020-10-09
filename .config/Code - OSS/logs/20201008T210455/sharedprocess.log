@@ -1,0 +1,2 @@
+[2020-10-08 21:05:01.992] [sharedprocess] [info] main {"machineId":"27fed93956f593a240200f52739748e92abc13e02ed4d140b11792775085621d","windowId":2}
+[2020-10-08 21:05:02.115] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kipo/.config/Code - OSS/User/snippets'
